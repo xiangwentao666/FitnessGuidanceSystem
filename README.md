@@ -1,19 +1,19 @@
 # FitnessGuidanceSystem
 ## Intelligent Fitness Guidance System Based on Posture Estimation and Segmentation Algorithms
+### Overview
 This is a fitness project based on MediaPipe and rPPG that integrates skeletal keypoint recognition, heart rate detection, and physical training. A desktop application and a WeChat mini-program are developed for exercising and fitness knowledge quizzes, respectively. Additionally, it achieves interconnectivity and data exchange between the two platforms.
 
 *Welcome to fork this project and actively raise issues, hoping it could be helpful to everyone!*
 
 **NOTE**: This project is **ONLY a part of my INDIVIDUAL UNDERGRADUATE THESIS** for university graduation!
 
-- 应用演示视频：
+### Interacting Video Demo
 <center>
   
   ![demo](./demo.gif)
 
 </center>
-
-- 内容汇报ppt：
+### Slides for Representation
 <center>
   
   ![汇报ppt](./ppt.gif)
