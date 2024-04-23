@@ -1,5 +1,5 @@
 # FitnessGuidanceSystem
-## Towards Robust Monocular Depth Estimation: Mixing Datasets for Zero-shot Cross-dataset Transfer
+## Intelligent Fitness Guidance System Based on Posture Estimation and Segmentation Algorithms
 This is a fitness project based on MediaPipe and rPPG that integrates skeletal keypoint recognition, heart rate detection, and physical training. A desktop application and a WeChat mini-program are developed for exercising and fitness knowledge quizzes, respectively. Additionally, it achieves interconnectivity and data exchange between the two platforms.
 
 *Welcome to fork this project and actively raise issues, hoping it could be helpful to everyone!*
