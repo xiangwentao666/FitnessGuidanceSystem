@@ -8,11 +8,13 @@ This is a fitness project based on MediaPipe and rPPG that integrates skeletal k
 **NOTE**: This project is **ONLY a part of my INDIVIDUAL UNDERGRADUATE THESIS** for university graduation!
 
 ### Interacting Video Demo
+
 <center>
   
   ![demo](./demo.gif)
 
 </center>
+
 ### Slides for Representation
 <center>
   
