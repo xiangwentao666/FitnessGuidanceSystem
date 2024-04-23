@@ -22,5 +22,5 @@ This is a fitness project based on MediaPipe and rPPG that integrates skeletal k
 
 ## Acknowledgements
 I'd like to thank the authors for making the libraries available.
-(Probably, code used comes from [rppg]([https://github.com/cx1628555321/rPPG](https://github.com/cx1628555321/rPPG)) and [MediaPipe]([[https://github.com/bytedance/Next-ViT](https://github.com/google/mediapipe)](https://github.com/google/mediapipe)).)
+(Probably, code used comes from [rppg](https://github.com/cx1628555321/rPPG) and [MediaPipe](https://github.com/google/mediapipe).)
 
