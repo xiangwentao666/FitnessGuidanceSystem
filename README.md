@@ -1,4 +1,4 @@
-# FitnessGuidanceSystem
+# FitnessGuidanceSystem([Chinese Version Link / 中文版Readme链接](https://github.com/xiangwentao666/FitnessGuidanceSystem/blob/main/README_Chinese.md))
 ## Intelligent Fitness Guidance System Based on Posture Estimation and Segmentation Algorithms
 ## (The code was completed in June 2023 and it is coming soon!)
 ### Overview
