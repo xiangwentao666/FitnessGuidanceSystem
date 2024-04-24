@@ -1,6 +1,6 @@
 # 健身指导系统（[英文Readme链接 / English Version Link](https://github.com/xiangwentao666/FitnessGuidanceSystem/blob/main/README.md)）
 ## 基于姿态估计和分割算法的智能健身指导系统
-## （代码完成于2023年6月，即将推出！）
+## （代码完成于2023年6月，尽快上传..）
 ### 概述
 这是一个基于MediaPipe和rPPG的健身项目，整合了骨骼关键点识别、心率检测和体能训练。开发了一个桌面应用进行锻炼，以及一个微信小程序进行健身知识问答。此外，它实现了两个平台之间的互联互通和数据交换。
 
